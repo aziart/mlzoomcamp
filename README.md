@@ -35,6 +35,9 @@
     
 - 1.6 Setting up the Environment
 - 1.7 Introduction to NumPy
+
+    [Introduction to NumPy (notebook)](https://github.com/aziart/mlzoomcamp/blob/main/01-07%20-%20Introduction%20to%20NumPy.ipynb)
+
 - 1.8 Linear Algebra Refresher
 - 1.9 Introduction to Pandas
 - 1.10 Summary
