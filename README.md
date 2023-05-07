@@ -17,21 +17,24 @@
 ## 1. Introduction to Machine Learning
 
 - 1.1 Introduction to Machine Learning
+
+<img src = "imgs/01-01.jpg" width=80% height=80%> 
+
 - 1.2 ML vs Rule-Based Systems
 
-<img src = "imgs/mlzc_1.jpg" width=80% height=80%>  
+<img src = "imgs/01-02.jpg" width=80% height=80%>  
 
 - 1.3 Supervised Machine Learning  
     
-<img src = "imgs/mlzc_2.jpg" width=80% height=80%>  
+<img src = "imgs/01-03.jpg" width=80% height=80%>  
 
 - 1.4 CRISP-DM  
     
-<img src = "imgs/mlzc_3.jpg" width=80% height=80%>  
+<img src = "imgs/01-04.jpg" width=80% height=80%>  
 
 - 1.5 Model Selection Process  
     
-<img src = "imgs/mlzc_4.jpg" width=80% height=80%>  
+<img src = "imgs/01-05.jpg" width=80% height=80%>  
 
 - 1.6 Setting up the Environment
 - 1.7 Introduction to NumPy
