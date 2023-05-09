@@ -42,6 +42,9 @@
     [Introduction to NumPy (notebook)](https://github.com/aziart/mlzoomcamp/blob/main/01-07%20-%20Introduction%20to%20NumPy.ipynb)
 
 - 1.8 Linear Algebra Refresher
+  
+    [Linear Algebra Refresher (notebook)](https://github.com/aziart/mlzoomcamp/blob/main/01-08%20Linear%20Algebra%20Refresher.ipynb)
+
 - 1.9 Introduction to Pandas
 - 1.10 Summary
 - 1.11 Homework
