@@ -37,16 +37,16 @@
 <img src = "imgs/01-05.jpg" width=80% height=80%>  
 
 - 1.6 Setting up the Environment
-- 1.7 Introduction to NumPy
-
-    [Introduction to NumPy (notebook)](https://github.com/aziart/mlzoomcamp/blob/main/01-07%20-%20Introduction%20to%20NumPy.ipynb)
+- 1.7 Introduction to NumPy  
+[Introduction to NumPy (notebook)](https://github.com/aziart/mlzoomcamp/blob/main/01-07%20-%20Introduction%20to%20NumPy.ipynb)
 
 - 1.8 Linear Algebra Refresher  
-[Linear Algebra Refresher (notebook)](https://github.com/aziart/mlzoomcamp/blob/main/01-08%20Linear%20Algebra%20Refresher.ipynb)
+[Linear Algebra Refresher (notebook)](https://github.com/aziart/mlzoomcamp/blob/main/01-08%20-%20Linear%20Algebra%20Refresher.ipynb)
     
 <img src = "imgs/01-08.jpg" width=80% height=80%>  
 
-- 1.9 Introduction to Pandas
+- 1.9 Introduction to Pandas  
+[Introduction to Pandas](https://github.com/aziart/mlzoomcamp/blob/main/01-09%20-%20Introduction%20to%20Pandas.ipynb)
 - 1.10 Summary
 - 1.11 Homework
 
