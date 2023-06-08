@@ -46,9 +46,7 @@
 <img src = "imgs/01-08.jpg" width=80% height=80%>  
 
 - 1.9 Introduction to Pandas  
-[Introduction to Pandas](https://github.com/aziart/mlzoomcamp/blob/main/01-09%20-%20Introduction%20to%20Pandas.ipynb)
-- 1.10 Summary
-- 1.11 Homework
+[Introduction to Pandas (notebook)](https://github.com/aziart/mlzoomcamp/blob/main/01-09%20-%20Introduction%20to%20Pandas.ipynb)
 
 ## 2. Machine Learning for Regression
 
