@@ -50,24 +50,24 @@
 
 ## 2. Machine Learning for Regression
 
-- 2.1 Car price prediction project
-- 2.2 Data preparation
-- 2.3 Exploratory data analysis
-- 2.4 Setting up the validation framework
-- 2.5 Linear regression
-- 2.6 Linear regression: vector form
-- 2.7 Training linear regression: Normal equation
-- 2.8 Baseline model for car price prediction project
-- 2.9 Root mean squared error
-- 2.10 Using RMSE on validation data
-- 2.11 Feature engineering
-- 2.12 Categorical variables
-- 2.13 Regularization
-- 2.14 Tuning the model
-- 2.15 Using the model
-- 2.16 Car price prediction project summary
-- 2.17 Explore more
-- 2.18 Homework
+> [Car Price Prediction (notebook):](https://github.com/aziart/mlzoomcamp/blob/main/02-01-15%20-%20Car%20Price%20Prediction.ipynb)
+> - 2.2 Data preparation  
+    <img src = "imgs/02-02.jpg" width=80% height=80%>  
+> - 2.3 Exploratory data analysis  
+    <img src = "imgs/02-03.jpg" width=80% height=80%>  
+> - 2.4 Setting up the validation framework  
+    <img src = "imgs/02-04.jpg" width=80% height=80%>  
+> - 2.5 Linear regression  
+> - 2.6 Linear regression: vector form  
+> - 2.7 Training linear regression: Normal equation  
+> - 2.8 Baseline model for car price prediction project  
+> - 2.9 Root mean squared error  
+> - 2.10 Using RMSE on validation data  
+> - 2.11 Feature engineering  
+> - 2.12 Categorical variables  
+> - 2.13 Regularization  
+> - 2.14 Tuning the model  
+> - 2.15 Using the model  
 
 ## 3. Machine Learning for Classification
 
